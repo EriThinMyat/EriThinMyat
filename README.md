@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a dedicated and curious lifelong learner with a unique background that blends education and technology. For over 7 years, I’ve worked as a Japanese language teacher, helping students gain confidence in communication and cross-cultural understanding. Now, I’m channeling that same passion for learning and teaching into the world of Artificial Intelligence.
+I'm a dedicated and curious learner with a unique background that blends education and technology. For over 7 years, I’ve worked as a Japanese language teacher, helping students gain confidence in communication and cross-cultural understanding. Now, I’m channeling that same passion for learning and teaching into the world of Artificial Intelligence.
 
 After years of empowering others through language, I’ve discovered a new calling in AI and Machine Learning—where I can solve real-world problems, automate tasks, and create meaningful impact through data-driven technologies. Currently, I'm focusing on building a strong foundation in Python and expanding my skills in math, machine learning, and AI fundamentals.
 
@@ -14,7 +14,6 @@ After years of empowering others through language, I’ve discovered a new calli
 - 👩‍🏫 Japanese language teacher with 7+ years of experience
 - 🌱 Eager to transition into AI and tech fields
 - 💡 Enjoys exploring new technologies, and sharing knowledge
-- 🤝 Always open to collaboration and meaningful conversations
 
 ---
 
